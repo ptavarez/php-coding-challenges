@@ -12,7 +12,7 @@ A repo to store daily coding challenges.
 
 1. In the terminal, go to the route of this repo
 2. To run tests for a specific challenge, enter the following:
-  - `php testing/<challengeName>.php` 
+  `php testing/<challengeName>.php` 
 
 ## Challenges
 - [First Factorial](challenges/firstFactorial.php)
