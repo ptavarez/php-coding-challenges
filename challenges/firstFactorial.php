@@ -6,6 +6,6 @@ integer.
 <?php
   function firstFactorial($num) {
     // Code here
-    return $num;
+    return null;
   }
 ?>

@@ -6,6 +6,6 @@ Ignore punctuation and assume sen will not be empty.
 <?php
   function longestWord($sen) {
     // Code here
-    return 'err';
+    return undefined;
   }
 ?>
