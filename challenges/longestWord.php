@@ -9,13 +9,10 @@ function longestWord($sen) {
 }
 
 $str1 = 'Hi there little one';
-$str2 = 'My name is rhymes with elephant';
+$str2 = 'My name rhymes with elephant';
 $str3 = 'The longest word in the english langauge is longggg';
 
-echo longestWord($str1) . " ";
-// => little
-echo longestWord($str2) . " ";
-// => elephant
-echo longestWord($str3) . " ";
-// => langauge
+echo longestWord($str1) . " "; // => little
+echo longestWord($str2) . " "; // => elephant
+echo longestWord($str3) . " "; // => langauge
 ?>
