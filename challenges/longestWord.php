@@ -4,15 +4,8 @@ are the same length, return the first word from the string with that length.
 Ignore punctuation and assume sen will not be empty.
 
 <?php
-function longestWord($sen) {
-  // Code here
-}
-
-$str1 = 'Hi there little one';
-$str2 = 'My name rhymes with elephant';
-$str3 = 'The longest word in the english langauge is longggg';
-
-echo longestWord($str1) . " "; // => little
-echo longestWord($str2) . " "; // => elephant
-echo longestWord($str3) . " "; // => langauge
+  function longestWord($sen) {
+    // Code here
+    return 'err';
+  }
 ?>
