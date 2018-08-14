@@ -5,7 +5,16 @@ Ignore punctuation and assume sen will not be empty.
 
 <?php
 function longestWord($sen) {
-  // Code here
+  $words = explode(' ', $sen);
+  
+  $longestWord = '';
+  
+  foreach ($words as $word) {
+      if (strlen($word) > strlen($longestWord)) {
+          $longestWord = $word;
+      }
+  }
+  return $longestWord; 
 }
 
 $str1 = 'Hi there little one';
