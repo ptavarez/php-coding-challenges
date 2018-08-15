@@ -23,3 +23,5 @@ A repo to store daily coding challenges.
   return the largest word in the string. If there are two or more words that
   are the same length, return the first word from the string with that length.
   Ignore punctuation and assume sen will not be empty.
+- [Simple Adding](challenges/simpleAdding.php)
+  - Have the function simpleAdding($num) add up all the numbers from 1 to $num. For example: if the input is 4 then your program should return 10 because 1 + 2 + 3 + 4 = 10. For the test cases, the parameter num will be any number from 1 to 1000.
