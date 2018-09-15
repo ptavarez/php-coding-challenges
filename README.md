@@ -11,7 +11,7 @@ A repo to store daily coding challenges.
 *For MacOS*
 
 1. In the terminal, go to the route of this repo
-2. To run tests for a specific challenge, enter the following:
+2. To test a specific challenge, enter the following:
   `php testing/<challengeName>.php`
 
 ## Challenges
